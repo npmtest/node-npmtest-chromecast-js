@@ -1,4 +1,7 @@
-# test coverage for  [chromecast-js (v0.1.7)](https://github.com/guerrerocarlos/chromecast-js)  [![npm package](https://img.shields.io/npm/v/npmtest-chromecast-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chromecast-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chromecast-js.svg)](https://travis-ci.org/npmtest/node-npmtest-chromecast-js)
+# npmtest-chromecast-js
+
+#### basic test coverage for  [chromecast-js (v0.1.7)](https://github.com/guerrerocarlos/chromecast-js)  [![npm package](https://img.shields.io/npm/v/npmtest-chromecast-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chromecast-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chromecast-js.svg)](https://travis-ci.org/npmtest/node-npmtest-chromecast-js)
+
 #### Chromecast/Googlecast streaming module all in JS
 
 [![NPM](https://nodei.co/npm/chromecast-js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/chromecast-js)
